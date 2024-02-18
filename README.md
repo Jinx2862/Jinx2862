@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋! I'm Ajinkya Galande </h1>
+- I'm excited about learning new things and contributing to the science community.
 
-<!--
-**Jinx2862/Jinx2862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **on all topics related to Data Science, Machine Learning, Deep Learning and Artificial Intellegence**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning and Artificial Intelligence**
+
+- 🌱 I’m currently mastering **Python, Tableau, R, MySQL, Azure, Apache Spark, Artificial intellegence and Deep learning**
+
+- 📫 You can reach me on my email id **ajinkyagalande1415@gmail.com**
+
+### Analytics Tools
+
+* **Data Collection and Storage:** MySQL.
+
+* **Data Processing and Analytics:** Jupyter Notebook, Pandas, Numpy.
+
+* **Development:** Python and Clean Code.
+
+* **Data Visualization:** Seaborn and Matplotlib.
+
+* **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series and Neural Network.
+
+
+
+**<h2>♡ Thank you for taking the time ♡**
