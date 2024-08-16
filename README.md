@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋! I'm Ajinkya Galande </h1>
+<h2 align="center"> Currently Pursuing Masters in Computer Science</h2>
 - I'm excited about learning new things and contributing to the science community.
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
@@ -7,7 +8,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning and Artificial Intelligence**
 
-- 🌱 I’m currently mastering **Python, Tableau, R, MySQL, Azure, Apache Spark, Artificial intellegence and Deep learning**
+- 🌱 I’m currently mastering **Python, PowerBi, MySQL, Apache Spark, Artificial intellegence and Deep learning**
 
 - 📫 You can reach me on my email id **ajinkyagalande1415@gmail.com**
 
@@ -19,7 +20,7 @@
 
 * **Development:** Python and Clean Code.
 
-* **Data Visualization:** Seaborn and Matplotlib.
+* **Data Visualization:** Seaborn and Matplotlib, PowerBi.
 
 * **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series and Neural Network.
 
