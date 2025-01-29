@@ -26,4 +26,4 @@
 
 
 
-**<h2>♡ Thank you for taking the time ♡**
+**<h2>♡ Thank you  ♡**
