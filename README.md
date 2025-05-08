@@ -6,9 +6,9 @@
 
 - 👯 I’m looking to collaborate on **on all topics related to Data Science, Machine Learning, Deep Learning and Artificial Intellegence**
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning and Artificial Intelligence**
+- 💬 Ask me about **Data Science, Machine Learning and Artificial Intelligence**
 
-- 🌱 I’m currently mastering **Python, PowerBi, MySQL, Apache Spark, Artificial intellegence and Deep learning**
+- 🌱 I’m currently mastering **Python, PowerBi, MySQL, Apache Spark, Artificial intellegence and Deep learning** Skills.
 
 - 📫 You can reach me on my email id **ajinkyagalande1415@gmail.com**
 
