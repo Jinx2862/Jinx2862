@@ -26,4 +26,3 @@
 
 
 
-My portfolio - https://ajinkyagalandeportfolio.netlify.app/
